@@ -1,3 +1,3 @@
 # Xray_onekey
 
-wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/gatotx/Xray_onekey/main/install.sh" && chmod +x install.sh && bash install.sh
+wget https://raw.githubusercontent.com/gatotx/Xray_onekey/main/install.sh && chmod +x install.sh && ./install.sh
